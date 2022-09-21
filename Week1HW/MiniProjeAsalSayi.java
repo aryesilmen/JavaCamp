@@ -1,6 +1,6 @@
 package Week1HW;
 
-public class miniProjeAsalSayi {
+public class MiniProjeAsalSayi {
     public static void main(String[] args) {
         int number = 2;
         boolean isPrime = true;
