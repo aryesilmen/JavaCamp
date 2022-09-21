@@ -1,6 +1,6 @@
 package Week1HW;
 
-public class loopDemo {
+public class LoopDemo {
     public static void main(String[] args) {
 
         //for
