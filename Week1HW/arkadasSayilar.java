@@ -1,6 +1,6 @@
 package Week1HW;
 
-public class arkadasSayilar {
+public class ArkadasSayilar {
     public static void main(String[] args) {
         int n1 = 220;
         int n2 = 284;
