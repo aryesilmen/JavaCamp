@@ -1,6 +1,6 @@
 package Week1HW;
 
-public class arraysDemo {
+public class ArraysDemo {
     public static void main(String[] args) {
 
         String[] ogrenciler = new String[4];
