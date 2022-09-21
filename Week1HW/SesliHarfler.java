@@ -1,6 +1,6 @@
 package Week1HW;
 
-public class sesliHarfler {
+public class SesliHarfler {
     public static void main(String[] args) {
 
         char karakter = 'a';
