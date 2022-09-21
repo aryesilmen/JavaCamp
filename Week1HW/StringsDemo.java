@@ -1,6 +1,6 @@
 package Week1HW;
 
-public class stringsDemo {
+public class StringsDemo {
     public static void main(String[] args) {
         String mesaj = "Bugün hava çok güzel.";
         System.out.println(mesaj);
