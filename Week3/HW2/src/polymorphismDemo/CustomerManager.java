@@ -1,3 +1,7 @@
+package polymorphismDemo;
+
+import polymorphismDemo.BaseLogger;
+
 public class CustomerManager {
 
     private BaseLogger logger;
